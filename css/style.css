@@ -18,6 +18,10 @@ body {
   margin-bottom: -2rem;
 }
 
+.progress {
+  height: 2rem
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }

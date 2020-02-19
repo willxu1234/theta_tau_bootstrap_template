@@ -7,16 +7,21 @@ body {
   padding-top: 56px;
 }
 
-.carousel-item {
-  height: 65vh;
+.jumbotron {
   min-height: 300px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  /* margin-bottom: 4rem; */
+  margin-bottom: -2rem;
 }
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+.jumpable-header {
+  padding-top: 5rem;
 }
